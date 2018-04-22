@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\bin\Debug\ProjOverload.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\bin\Debug\ProjOverload.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\bin\Debug\ProjOverload.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\obj\Debug\ProjOverload.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\obj\Debug\ProjOverload.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\obj\Debug\ProjOverload.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\13-overload\ProjOverload\ProjOverload\obj\Debug\ProjOverload.pdb
